@@ -3,4 +3,4 @@
 Company=cogni
 Loc=pune
 PROFESSION=AWS/DevOps
-echo "Class Name is $Company, Batch number $Loc, We are learning $PROFESSION"
+echo "Company Name is $Company, location is  $Loc, We are learning $PROFESSION"
